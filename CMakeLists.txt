@@ -17,6 +17,8 @@ qt_add_qml_module(appdiplomaFinal
     VERSION 1.0
     QML_FILES
         Main.qml
+        QML_FILES LoginPage.qml
+        QML_FILES RegisterPage.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
