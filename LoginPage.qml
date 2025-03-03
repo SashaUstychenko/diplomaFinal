@@ -99,12 +99,11 @@ Page
                  font.pixelSize: 20  // Задаємо розмір тексту
                  horizontalAlignment: Text.AlignHCenter
                  verticalAlignment: Text.AlignVCenter
-             }
+            }
             background: Rectangle
             {
                 radius: 20
                 color: "#293239"
-
             }
         }
     }
