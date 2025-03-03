@@ -17,7 +17,11 @@ ApplicationWindow
     {
           id: stackView
           anchors.fill: parent
+<<<<<<< HEAD
           initialItem: "StartedPage.qml"
+=======
+          initialItem: "RegisterPage.qml"
+>>>>>>> origin/register_ui
           pushEnter: Transition
           {
                 id: pushEnter
