@@ -17,7 +17,7 @@ ApplicationWindow
     {
           id: stackView
           anchors.fill: parent
-          initialItem: "LoginPage.qml"
+          initialItem: "StartedPage.qml"
           pushEnter: Transition
           {
                 id: pushEnter
